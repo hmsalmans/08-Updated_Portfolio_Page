@@ -1,0 +1,53 @@
+
+header{
+    text-align: center;
+    height: 50px;;
+    margin-top: 5px;
+}
+main section article div h4 {
+    color:gold;
+    margin-top: 5px;
+}
+.ads{
+    width: 500px;
+}
+.kids{
+    margin-top: 100px;
+    border-radius: 50%;
+    width: 500px;
+    height: 300px;
+
+}
+.kashaf {
+    width: 250px;
+    border-radius: 25%;
+}
+footer{
+    color:red;
+    text-justify: auto;
+    text-align: end;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-top: -50px;
+}
+body {
+    background-image: url(background\ copy.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+body img {
+    
+        opacity: 0.7; /* linked css file has opacity attribute to make it translucent*/
+      }
+      
+      img:hover {
+        opacity: 1.0; /* opacity is nulled when mouse is hovered*/
+      }
+h4 {
+    color: goldenrod;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
