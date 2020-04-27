@@ -1,4 +1,7 @@
-
+.cal {
+    width: 300px;
+    border-radius: 50%;
+}
 header{
     text-align: center;
     height: 50px;;
@@ -8,8 +11,17 @@ main section article div h4 {
     color:gold;
     margin-top: 5px;
 }
-.ads{
-    width: 500px;
+.weather{
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 80px;
+    
+    
+}
+.ads {
+    text-align: center;
+    color: aqua;
+    font-family: fantasy;
 }
 .kids{
     margin-top: 100px;
@@ -44,10 +56,12 @@ body img {
       img:hover {
         opacity: 1.0; /* opacity is nulled when mouse is hovered*/
       }
-h4 {
-    color: goldenrod;
-    text-align: center;
-}
+
+      
 ul {
     list-style-type: none;
+}
+.work {
+    width: 250px;
+    border-radius: 50px;
 }
