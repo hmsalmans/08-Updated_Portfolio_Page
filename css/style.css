@@ -1,8 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
-body {
-    font-family: 'Montserrat', sans-serif;
-}
+
 header nav a img {
     width: 50px;
 
@@ -11,17 +9,18 @@ header nav a img {
 body {
     background-image: url(image1.jpg);
     background-size: cover;
+    font-family: 'Montserrat', sans-serif;
     
 }
 p{
-    color: lawngreen;
+    color: #fde2ff;
 }
 .red {
-    color: blueviolet;
+    color: rgb(43, 174, 226);
     
 }
 .null {
-    list-style-type: none;
+    
     
 }
 .red1 {
@@ -37,4 +36,7 @@ footer h3 {
 }
 h3 {
     color: green;
+}
+h4 {
+    color: rosybrown;
 }

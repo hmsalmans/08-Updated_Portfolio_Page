@@ -20,14 +20,16 @@ All these sections of the project are inter-linked and can be navigated from one
    
    The project is made responsive for different types of user views and adjusts its parameters accordingly.  
 
-   ## Video
-   
-   A video link is addded to kids picture alongside _blank attribute to play video in a separate
-   window.
+   ## Deployable Projects
+   - Jquery Calculator
+   - Weather Dashboard
+   - Work Day Schduler
+   - Node Readme File Generator
+   - A running application ( Let's Run )
 
 ## Link to Deployed Portfolio  
 
-        
+*https://hmsalmans.github.io/08-Updated_Portfolio_Page/.
     
      
     
